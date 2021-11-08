@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Neethu Muraleedharan
 - 👀 I’m interested in becoming a Data Scientist
-- 🌱 I’m currently learning Data Science from Lancaster University, Bailrigg,England,UK
+- 🌱 I’m currently pursuing Data Science from Lancaster University,Lancaster,England,UK
 - 📫 Reach me @neethu.muraleedharan6@gmail.com
 
 <!---
